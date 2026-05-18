@@ -1,0 +1,11 @@
+## Interface: 120000
+## Title: Cursor Spell Icon
+## Notes: Shows the spell icon next to your cursor while targeting — supports both ground-placement reticles and cursor-glow unit-targeted spells.
+## Author: Doryndinan
+## Version: 1.0
+## SavedVariables: CursorSpellIconDB
+
+embeds.xml
+core.lua
+settings.lua
+cursorIndicator.lua
