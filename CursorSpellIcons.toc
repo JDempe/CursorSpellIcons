@@ -1,4 +1,4 @@
-## Interface: 120000
+## Interface: 120007
 ## Title: Cursor Spell Icon
 ## Notes: Shows the spell icon next to your cursor while targeting — supports both ground-placement reticles and cursor-glow unit-targeted spells.
 ## Author: Doryndinan
